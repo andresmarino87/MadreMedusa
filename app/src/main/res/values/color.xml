@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_overlay">#66000000</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="yolk">#FFE600</color>
+    <color name="mustard">#FFCC11</color>
+    <color name="darkgoldenrod2">#EEAD0E</color>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MadreMedusa</string>
+    <string name="revista">Revista</string>
+    <string name="blog">Blog</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="image_directory">MadreMedusa</string>
+    <string name="blank"></string>
+    <string name="title_activity_magazine_viewer">Magazine</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="clear_cache">Limpiar cache</string>
+    <string name="title_activity_about_us">Nosotros</string>
+    <string name="autor">Autor: </string>
+    <string name="manifest">Manifiesto</string>
+    <string name="origin">Origen</string>
+    <string name="collaborators">Colaboradores</string>
+    <string name="manifest_text_1">Madre Medusa. Iniciativa que desea poner de manifiesto una expresión relegada, lejana a farándulas y cúpulas gobernadas por hegemonías nada precisas de actores que rehúsan hacer lugar para lo poco convencional. El valor de las crónicas y creaciones artísticas publicadas en nuestra revista convergen hacia un lugar de la realidad caraqueña e internacional que es ignorada por muchos. Aunque la mayoría de las opiniones o artículos tengan como autores a “los mismos de siempre”, los temas y el material en el que nos basamos trata de salir de ese meollo plástico que envuelve cada columna de cada periódico y publicación que plaga nuestra ciudad y país, sin mucho más que aportar que lugares comunes.</string>
+    <string name="manifest_text_2">Claro, queda en evidencia la falta de experiencia en temas de edición, publicidad, mercadeo y formalidades logísticas; nuestro producto es crudo. No del todo rebeldes, podría decirse que es ese el punto de desligue que buscamos. Aunque no hay escrito u opinión en nuestros números que pueda ser considerado de mala calidad, tampoco hay nada muy excelso. Todo simplemente desemboca en un latir cotidiano de acciones y descubrimientos que si no a modo trascendental, buscan permanecer como una bitácora de aportes y reconocimiento a cosas que de otro modo hubieran quedado en el olvido por siempre. Y ese extra construye sociedad, y política.\n\nSomos caraqueños, trabajamos a la mitad de nuestros requerimientos, con recursos propios y algo escasos. Escribimos  y producimos mejor que centenares que trabajan a mil sin la mitad de la pasión.\n\nSaludos y brazos ligeramente abiertos a quién quiera servirse de este pequeño espacio, no tan hostil pero tampoco demasiado amigable, para buscar expresarse.\n\nGracias anticipadas a quienes siempre han estado por detrás sin perdernos fe. Los por ahora directivos: Evelio Gil, Débora Ochoa.</string>
+    <string name="origin_text_1">Como grupo siempre hemos estado intrigados con la forma más idónea de transmitir todas esas ideas que están en nuestras mentes, así como las iniciativas que nos influencian, o los gustos musicales y audiovisuales que creemos deberían ser proyectados con mayor fuerza entre nuestros iguales. Como núcleo, la mayoría de nosotros desarrolló su vida universitaria en la Universidad Simón Bolívar. El resto se relacionó con esta casa de estudios mediante un estrecho lazo de amistad que nos ayudó a emprender el proyecto final.\n\nEl punto clave fue decidir hacer una cápsula del tiempo: colocar objetos y material que para nosotros eran oro, con la intención de reunirnos en un futuro lejano a rememorar las virtudes de una época (evento aún pendiente). Todo bajo el apelativo de “Club de La Serpiente”, tomado de la popular “Rayuela” de Julio Cortázar. Para la época la cosa se perfilaba intensa y por lo tanto no escatimábamos en referencias y recursos llenos de contenidos poéticos.</string>
+    <string name="origin_text_2">Otras ideas surgieron en el campus, esta vez de naturaleza audiovisual. Con Hola-Ola incursionamos en el mundo de los talk shows a través de Youtube sin nada de éxito, aunque los vídeos quedaron para la posteridad como reflejo de nuestro ingenio y gran sentido del humor personalizado e interno./n Paralelamente a esto, y con ganas incontenibles de hacer notar nuestra ideología de vida, realizamos un intento más que decente de incursionar fuertemente en la redes sociales, utilizando Twitter y la cuenta @gossipUSB. Aunque las ideas de lo que queríamos lograr no estaban aún muy claras, twitteábamos para expresarnos diversamente respecto de la vida universitaria, con un agregado de humor negro hacia la vida estudiantil y profesoral. Para el momento ya estábamos de salida, y lo que conocíamos de la universidad era distinto para los nuevos ingresos. Aún así @gossipUSB aun operaba aleatoriamente, y es un respiro ver que hoy en día cuando revivimos en alguna nueva publicación, una base de estudiantes siguen sintiendo fiel identificación.\n\nCon el stop inducido que sufrió @gossipUSB se sucedieron eventos claves: conflictos y amoríos personales propios de la transición juvenil que ninguno esperábamos, de un modo u otro desvirtuaron el fin del “Club” y todo se frenó. Algunos ya planeaban irse del país, otros empezamos a trabajar, y los demás simplemente perdimos la motivación sin exclusividades específicas.</string>
+	<string name="origin_text_3">La idea “revista” rondaba en nuestra cabeza. Sin ningún tipo de plan surgió por un periodo muy breve la iniciativa Coconutshy en una respuesta rápidamente envidiosa, desordenada y sin bases a la puesta en marcha de la Revista Volumen, de otro grupo con cualidades similares al de nosotros. Felizmente Volumen claudicó a los pocos números.\n\nAunque mal fundamentada Coconutshy siempre estuvo latente, y en su primera aproximación dio origen a la plataforma que usaríamos con Madre Medusa. En el intermedio Coconutshy se convirtió en una plataforma de pruebas llamada Revista Tentativa, en la que logramos publicar unos cinco o seis artículos de ramas muy variadas y bien puestos en marcha, pero en la que de nuevo por falta de constancia, las idea no prosperaron y quedaron para ocupar un dominio más de blogspot, abandonado a posibles clicks nostálgicos en futuros de vejez.</string>        
+	<string name="origin_text_4">Teniendo el pulso de la idea ya muy bajo y quizás a punto de fallecer para siempre, e inspirada esta vez en ideas revolucionarias callejeras sacadas de “Los Detectives Salvajes” de Roberto Bolaño, Débora Ochoa presentó a Evelio Gil una posibilidad repetida pero de algún modo novedosa. Con algunas ideas en limpio y una meta más clara y deslastrada de ataduras pasadas, podría decirse que el Volumen 1 de Madre Medusa surgió en una noche de conversaciones estáticas.\n\nEl concepto visual se definió con material fresco de los films Bellflower y Mad Max, acoplándose perfectamente al contenido literario rústico y crudo que quisimos explotar, lejano de los estereotipos faranduleros o demasiado elegantes que florecen en la escena actual.  Luego vino la parte difícil: darnos cuenta de que imprimir un fascículo en formato Word no era el mejor gancho visual que podíamos usar para nuestra posible audiencia.</string>        
+	<string name="origin_text_5">Con esta premisa decidimos trabajar el Volumen 2 en formato Indesign para darle mejor carácter visual a nuestra ahora más sólida creación, sin por ello perder la calidad de lo presentado en sus distintas secciones. El salto fue abismal, y el producto ya estaba listo para ser presentado a un público más exigente y demandante. El choque siguiente fue obviamente encontrar la forma de darnos a conocer, la distribución de los pocos números, la notoriedad tanto a nivel callejero como en las redes sociales, el tiempo para reunirnos a discutir estratagemas. Conseguir esa constancia que es necesaria para mantener una idea a flote mientras se mantiene un trabajo de oficina no es tan sencillo como puede sonar. Al menos no en un país donde tener un ingreso constante representa para muchos la clave de una supervivencia y posible sublimación.\n\nMuchos lugares comunes y altibajos han definido este periodo de inactividad de Madre Medusa. No podemos atribuir toda la  culpa a nuestras actividades cotidianas o a la desmotivación-país cotidiana, pues sería injusto para con todas esas iniciativas alternativas que intentamos propagar. Continuamos ahora con la construcción del Volumen 3, intentando ser y hacer algo de calidad para un público que creemos es reducido e igualmente desatendido. Sabemos que están ahí, y que todo no es color fluorescente,  OjO y farándula autopictórica.</string>        
+	<string name="collaborator_text">Esta pagina estará perpetuamente dedicada a nuestros excelsos colaboradores.\n\nSaludos!</string>        
+	
+	<string name="collaborator_1">Michelle Durán (Volumen 2)</string>
+	<string name="collaborator_2">Alexander Cordova (Blog)</string>
+	<string name="collaborator_3">Ariadna Martin (Vol 1 y 2)</string>
+	<string name="collaborator_4">Rafael Valera (Blog)</string>
+	<string name="collaborator_5">Eduardo Abrams (Volumen 3)</string>
+	<string name="collaborator_6">Bernardo Abrams (Volumen 2)</string>
+	<string name="collaborator_7">Ska Angel (Volumen 3)</string>
+	<string name="collaborator_8">Rosangie Chirinos (Distribución)</string>
+	<string name="collaborator_9">Rosmaris Montesinos (Blog)</string>
+	<string name="collaborator_10">Andrea Bermúdez (Volumen 3)</string>
+	<string name="collaborator_11">José Ignacio Calderón (Volumen 1,2,3,4)</string>
+	<string name="collaborator_12">Maria Gabriela Inojosa (Ilustraciones)</string>
+	<string name="collaborator_13">Ernesto Soltero (Volumen 4)</string>
+	<string name="collaborator_14">Alejandro Soler (Volumen 4)</string>
+	<string name="collaborator_15">Eme Ele (Volumen 4)</string>
+	<string name="collaborator_16">Yuruán García (Volumen 4)</string>
+	<string name="collaborator_17">Ivonne Acuña (Volumen 4)</string>
+	<string name="collaborator_18">Yel Victoria (Volumen 4)</string>
+						
+	<string-array name="menu_items">
+        <item>Revista</item>
+        <item>Blog</item>
+        <item>Twitter</item>
+        <item>Facebook</item>
+        <item>Nosotros</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_post">Post</string>
+    <string name="title_activity_us">Nosotros</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+</resources>
