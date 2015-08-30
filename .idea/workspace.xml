@@ -11,37 +11,152 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10959f3c-1136-4c6c-b006-361439eeca03" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/httpclient-4.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/httpclient_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces.xcodeproj/project.xcworkspace/xcuserdata/kate.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces/AppDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces.xcodeproj/xcuserdata/kate.xcuserdatad/xcschemes/Danzavoces.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/DanzavocesTests/DanzavocesTests.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces/DetailViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/DanzavocesTests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces/Base.lproj/LaunchScreen.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces/MasterViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../IOS Deveps/Danzavoces/Danzavoces.xcodeproj/project.pbxproj" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/README.rdoc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/app/assets/images/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/app/assets/javascripts/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/app/assets/stylesheets/application.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/app/controllers/application_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/app/controllers/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/app/helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/app/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/app/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/app/models/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/app/views/layouts/application.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/bin/bundle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/bin/rails" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/bin/rake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/bin/spring" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config.ru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/application.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/boot.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/database.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/environment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/environments/development.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/environments/production.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/environments/test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/initializers/assets.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/initializers/backtrace_silencers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/initializers/cookies_serializer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/initializers/filter_parameter_logging.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/initializers/inflections.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/initializers/mime_types.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/initializers/session_store.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/initializers/wrap_parameters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/locales/en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/routes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/config/secrets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/db/seeds.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/lib/assets/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/lib/tasks/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/log/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/public/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/public/422.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/public/500.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/test/controllers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/test/fixtures/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/test/helpers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/test/integration/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/test/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/test/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/test/test_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/vendor/assets/javascripts/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../WebDeveps/WebServiceRoRTest/vendor/assets/stylesheets/.keep" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IOS Deveps/MadreMedusa" afterPath="$PROJECT_DIR$/../../IOS Deveps/MadreMedusa" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IOS Deveps/PhotoFilters" afterPath="$PROJECT_DIR$/../../IOS Deveps/PhotoFilters" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IOS Deveps/ScaryBugs" afterPath="$PROJECT_DIR$/../../IOS Deveps/ScaryBugs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IOS Deveps/ToDoList" afterPath="$PROJECT_DIR$/../../IOS Deveps/ToDoList" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/madremedusa/Utils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/madremedusa/Utils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/achartengine-1.1.0-rc2-dce3040508044d9b4bb37b0e2908ab5590aad827.jar" afterPath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/achartengine-1.1.0-rc2-dce3040508044d9b4bb37b0e2908ab5590aad827.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/../Italo/app/build/outputs/apk/app-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/../RelaxMusic/app/build/outputs/apk/app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/../Italo/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/../RelaxMusic/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/../Italo/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/../RelaxMusic/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-02b004f733c11bc2be2dd88534961ade7d3834fe.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-02b004f733c11bc2be2dd88534961ade7d3834fe.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-374cc2df58b3558cedeeb87e5539fb1bcd37129f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-374cc2df58b3558cedeeb87e5539fb1bcd37129f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/pre-dexed/debug/classes-6d356d609157f289b225b00994452a0b3e242bfd.jar" afterPath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/pre-dexed/debug/classes-6d356d609157f289b225b00994452a0b3e242bfd.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/classes-f49d26db0159ba6884d2e6ae1f51079f462b76b9.jar" afterPath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/classes-f49d26db0159ba6884d2e6ae1f51079f462b76b9.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/commons-lang3-3.1-2372a1806f0df6863696f46bde2728b5716aca7b.jar" afterPath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/commons-lang3-3.1-2372a1806f0df6863696f46bde2728b5716aca7b.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IOS Deveps/demoDice" afterPath="$PROJECT_DIR$/../../IOS Deveps/demoDice" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/../Italo/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/../RelaxMusic/.gradle/2.4/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../Italo/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../RelaxMusic/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/../Italo/build/intermediates/gradle_project_sync_data.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/../RelaxMusic/build/intermediates/gradle_project_sync_data.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/graphview-3.1-b713d160e514c6fd48ddea76536b95403b0f0ef0.jar" afterPath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/graphview-3.1-b713d160e514c6fd48ddea76536b95403b0f0ef0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/httpclient-4.5-3f1458b38247db3a57679912b1f6eb112a5eb1b0.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/httpclient-4.5-3f1458b38247db3a57679912b1f6eb112a5eb1b0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-779831360fc820240c6fa8fa9dd6ceadf74df18f.jar" afterPath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-779831360fc820240c6fa8fa9dd6ceadf74df18f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-85c1ebfc918e19b23406bbd15607cdd8675acfa3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-85c1ebfc918e19b23406bbd15607cdd8675acfa3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f00b456da971db7518d655632a93123af45580cb.jar" afterPath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f00b456da971db7518d655632a93123af45580cb.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/../Italo/app/build/intermediates/resources/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/resources/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/../Italo/app/build/intermediates/resources/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/resources/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d705c81f6dab633ec48b3ea986efb76eb51a037a.jar" afterPath="$PROJECT_DIR$/../Italo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d705c81f6dab633ec48b3ea986efb76eb51a037a.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d705c81f6dab633ec48b3ea986efb76eb51a037a.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d705c81f6dab633ec48b3ea986efb76eb51a037a.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d705c81f6dab633ec48b3ea986efb76eb51a037a.jar" afterPath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d705c81f6dab633ec48b3ea986efb76eb51a037a.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/../Italo/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/../RelaxMusic/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Danzavoces/Danzavoces.iml" afterPath="$PROJECT_DIR$/../../Danzavoces/Danzavoces.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/madremedusa/Utils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/madremedusa/Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/res/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/res/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/../RelaxMusic/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/app.iml" afterPath="$PROJECT_DIR$/../Italo/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/app.iml" afterPath="$PROJECT_DIR$/../RelaxMusic/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/app/build.gradle" afterPath="$PROJECT_DIR$/../Italo/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/build.gradle" afterPath="$PROJECT_DIR$/../RelaxMusic/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/../Italo/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/../RelaxMusic/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Danzavoces/.idea/gradle.xml" afterPath="$PROJECT_DIR$/../../Danzavoces/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/local.properties" afterPath="$PROJECT_DIR$/../Italo/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/local.properties" afterPath="$PROJECT_DIR$/../RelaxMusic/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Danzavoces/local.properties" afterPath="$PROJECT_DIR$/../../Danzavoces/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/.idea/misc.xml" afterPath="$PROJECT_DIR$/../RelaxMusic/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Danzavoces/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../Danzavoces/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Danzavoces/.idea/modules.xml" afterPath="$PROJECT_DIR$/../../Danzavoces/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/res/debug/animator/selected_sound.xml" afterPath="$PROJECT_DIR$/../RelaxMusic/app/build/intermediates/res/debug/animator/selected_sound.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/app/src/main/res/animator/selected_sound.xml" afterPath="$PROJECT_DIR$/../RelaxMusic/app/src/main/res/animator/selected_sound.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../RelaxMusic/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Danzavoces/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../Danzavoces/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Italo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Italo/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RelaxMusic/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../RelaxMusic/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Danzavoces/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Danzavoces/.idea/workspace.xml" />
     </list>
     <ignored path="MadreMedusa.iws" />
@@ -58,6 +173,13 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="MadreMedusa" />
   </component>
@@ -65,7 +187,7 @@
     <leaf />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -1190,7 +1312,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4316938263000" />
+        <entry key="$PROJECT_DIR$" value="4318676789000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1516,7 +1638,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="713" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1541,6 +1663,122 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="MadreMedusa">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MadreMedusa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MadreMedusa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MadreMedusa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MadreMedusa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MadreMedusa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MadreMedusa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MadreMedusa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MadreMedusa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MadreMedusa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="madremedusa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1665,110 +1903,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MadreMedusa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MadreMedusa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MadreMedusa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MadreMedusa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MadreMedusa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MadreMedusa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MadreMedusa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MadreMedusa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MadreMedusa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MadreMedusa">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="app">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="app">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1777,6 +1911,8 @@
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_22_x86" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1983,7 +2119,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="713" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1996,15 +2132,15 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2024,6 +2160,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madremedusa/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madremedusa/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madremedusa/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madremedusa/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/import-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.48655915">
@@ -2045,20 +2237,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madremedusa/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0456989">
-          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madremedusa/MagazineFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.2069893">
           <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madremedusa/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.568733">
+          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madremedusa/AppConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.57894737">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madremedusa/CollaboratorsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.18421052">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
