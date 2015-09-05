@@ -25,8 +25,10 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.AbsListView.OnScrollListener;
 import android.widget.AdapterView.OnItemClickListener;
+import android.widget.Toast;
 
 public class PostFragment extends Fragment {
+	private Context context;
 	private Intent i;
 	private ListView posts;
 	private RelativeLayout progressLayout;
@@ -52,65 +54,66 @@ public class PostFragment extends Fragment {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setRetainInstance(true);
-		postList= new ArrayList<Post>();
-		adapter=new PostsArrayAdapter(getActivity(),R.layout.post_item,postList);
+		context = this.getActivity();
+		postList = new ArrayList<Post>();
+		adapter = new PostsArrayAdapter(getActivity(),R.layout.post_item,postList);
 		new JSONGetPosts().execute(AppConstant.PostURL);
 	}
 	            	
 	@SuppressLint("InflateParams") @Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 		View rootView = inflater.inflate(R.layout.fragment_post, container, false);
-		posts=(ListView)rootView.findViewById(R.id.posts);
+		posts = (ListView)rootView.findViewById(R.id.posts);
 		progressLayout=(RelativeLayout)rootView.findViewById(R.id.progressLayout);
         spinnerProg =  ((LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE)).inflate(R.layout.loading_layout, null);
         posts.addFooterView(spinnerProg);
         posts.setAdapter(adapter);
-		posts.setOnItemClickListener(new OnItemClickListener(){
+		posts.setOnItemClickListener(new OnItemClickListener() {
 			@Override
-			public void onItemClick(AdapterView<?> arg0, View arg1, int arg2,long arg3) {
-				try{
-					Post aux=postList.get(arg2);
-					i=new Intent(getActivity(), PostActivity.class);
+			public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
+				try {
+					Post aux = postList.get(arg2);
+					i = new Intent(getActivity(), PostActivity.class);
 					i.putExtra("thumbnail", aux.getThumbnailUrl());
 					i.putExtra("title", aux.getTitle());
 					i.putExtra("author", aux.getAuthor());
 					i.putExtra("content", aux.getContent());
 					startActivity(i);
-				}catch(Exception e){
-						
+				} catch (Exception e) {
+
 				}
 			}
 		});
-		posts.setOnScrollListener(new OnScrollListener(){
-        	private int currentFirstVisibleItem=0;
-        	private int currentVisibleItemCount=0;
-        	private int currentTotalItemCount=0;
-        	private int currentScrollState=0;
-        	
+		posts.setOnScrollListener(new OnScrollListener() {
+			private int currentFirstVisibleItem = 0;
+			private int currentVisibleItemCount = 0;
+			private int currentTotalItemCount = 0;
+			private int currentScrollState = 0;
+
 			@Override
 			public void onScroll(AbsListView view, int firstVisibleItem, int visibleItemCount, int totalItemCount) {
-        	    this.currentFirstVisibleItem = firstVisibleItem;
-        	    this.currentVisibleItemCount = visibleItemCount;
-        	    this.currentTotalItemCount = totalItemCount;
+				this.currentFirstVisibleItem = firstVisibleItem;
+				this.currentVisibleItemCount = visibleItemCount;
+				this.currentTotalItemCount = totalItemCount;
 			}
 
 			@Override
 			public void onScrollStateChanged(AbsListView arg0, int scrollState) {
-        	    this.currentScrollState = scrollState;
-         	    this.isScrollCompleted();
+				this.currentScrollState = scrollState;
+				this.isScrollCompleted();
 			}
-			
-        	private void isScrollCompleted() {
-    	        int lastItem = this.currentFirstVisibleItem + this.currentVisibleItemCount;
-        		if (this.currentVisibleItemCount > 0 && this.currentScrollState == SCROLL_STATE_IDLE && lastItem == this.currentTotalItemCount) {
-        			if(!isLoading){
-        				isLoading = true;
-        	            spinnerProg.setVisibility(LinearLayout.VISIBLE);
-        	            new JSONGetPosts().execute(AppConstant.PostURL+"&pageToken="+tokenForMore);
-        				adapter.notifyDataSetChanged();
-        			}
-        		}
-        	}
+
+			private void isScrollCompleted() {
+				int lastItem = this.currentFirstVisibleItem + this.currentVisibleItemCount;
+				if (this.currentVisibleItemCount > 0 && this.currentScrollState == SCROLL_STATE_IDLE && lastItem == this.currentTotalItemCount) {
+					if (!isLoading) {
+						isLoading = true;
+						spinnerProg.setVisibility(LinearLayout.VISIBLE);
+						new JSONGetPosts().execute(AppConstant.PostURL + "&pageToken=" + tokenForMore);
+						adapter.notifyDataSetChanged();
+					}
+				}
+			}
 		});
 
 		return rootView;
@@ -132,43 +135,69 @@ public class PostFragment extends Fragment {
 	            
 		@Override
 		protected JSONObject doInBackground(String... urls) {
-			String title="";
-			String author="";
-			String thumbnailUrl="";
-			String content="";
 			JSONObject result=null;
-			JSONObject item,aux;
-			JSONArray array;
 			String url=urls[0];
-			try {
-				result=Utils.readJsonFromUrl(url);
-				tokenForMore=result.getString("nextPageToken");
-				array=result.getJSONArray("items");
-				for(int i=0;i<array.length();i++){
-					item = array.getJSONObject(i);
-					title=item.getString("title");
-					content=item.getString("content");
-					aux=item.getJSONObject("author");
-					author=aux.getString("displayName");
-					aux=aux.getJSONObject("image");
-					thumbnailUrl=aux.getString("url");					
-					postList.add(new Post(title,author,thumbnailUrl,content));
+			if(Utils.checkConn(context)) {
+				try {
+					result=Utils.readJsonFromUrl(url);
+					result.put("isConnectionValid", true);
+					tokenForMore=result.getString("nextPageToken");
+				} catch (IOException e) {
+					Log.e(getActivity().getPackageName(),"Error doInBackground IOException "+e);
+				} catch (JSONException e) {
+					Log.e(getActivity().getPackageName(),"Error doInBackground JSONException "+e);
 				}
-			} catch (IOException e) {
-				Log.e(getActivity().getPackageName(),"Error doInBackground IOException "+e);
-			} catch (JSONException e) {
-				Log.e(getActivity().getPackageName(),"Error doInBackground JSONException "+e);
+			}else {
+				try {
+					result = new JSONObject();
+					result.put("isConnectionValid", false);
+				}catch(JSONException e){
+					Log.e(getActivity().getPackageName(), "Error doInBackground JSONException " + e);
+				}
 			}
 			return result;
 		}
 	        	
 		@Override
 		protected void onPostExecute(JSONObject result) {
-			isLoading=false;
-			progressLayout.setVisibility(LinearLayout.GONE);
-			posts.setVisibility(LinearLayout.VISIBLE);
-            spinnerProg.setVisibility(LinearLayout.GONE);
-			adapter.notifyDataSetChanged();
+			boolean hasConnection=false;
+			try{
+				hasConnection = result.getBoolean("isConnectionValid");
+			}catch(JSONException e){
+
+			}
+
+			if(hasConnection) {
+				String title;
+				String author;
+				String thumbnailUrl;
+				String content;
+				JSONObject item,aux;
+				JSONArray array;
+				try {
+					array = result.getJSONArray("items");
+					for (int i = 0; i < array.length(); i++) {
+						item = array.getJSONObject(i);
+						title = item.getString("title");
+						content = item.getString("content");
+						aux = item.getJSONObject("author");
+						author = aux.getString("displayName");
+						aux = aux.getJSONObject("image");
+						thumbnailUrl = aux.getString("url");
+						postList.add(new Post(title, author, thumbnailUrl, content));
+					}
+				}catch(JSONException e){
+					Log.e(getActivity().getPackageName(),"Error doInBackground JSONException "+e);
+				}
+				isLoading=false;
+				progressLayout.setVisibility(LinearLayout.GONE);
+				posts.setVisibility(LinearLayout.VISIBLE);
+        	    spinnerProg.setVisibility(LinearLayout.GONE);
+				adapter.notifyDataSetChanged();
+			}else{
+				Toast.makeText(context, R.string.no_internet_connection, Toast.LENGTH_LONG).show();
+			}
 		}
 	}
 }
+
