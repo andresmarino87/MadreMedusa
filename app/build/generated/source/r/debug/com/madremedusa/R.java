@@ -1518,21 +1518,22 @@ containing a value of this type.
         public static final int manifest_text_2=0x7f050032;
         public static final int navigation_drawer_close=0x7f050033;
         public static final int navigation_drawer_open=0x7f050034;
-        public static final int origin=0x7f050035;
-        public static final int origin_text_1=0x7f050036;
-        public static final int origin_text_2=0x7f050037;
-        public static final int origin_text_3=0x7f050038;
-        public static final int origin_text_4=0x7f050039;
-        public static final int origin_text_5=0x7f05003a;
-        public static final int revista=0x7f05003b;
-        public static final int title_activity_about_us=0x7f05003c;
-        public static final int title_activity_magazine_viewer=0x7f05003d;
-        public static final int title_activity_post=0x7f05003e;
-        public static final int title_activity_us=0x7f05003f;
-        public static final int title_section1=0x7f050040;
-        public static final int title_section2=0x7f050041;
-        public static final int title_section3=0x7f050042;
-        public static final int twitter=0x7f050043;
+        public static final int no_internet_connection=0x7f050035;
+        public static final int origin=0x7f050036;
+        public static final int origin_text_1=0x7f050037;
+        public static final int origin_text_2=0x7f050038;
+        public static final int origin_text_3=0x7f050039;
+        public static final int origin_text_4=0x7f05003a;
+        public static final int origin_text_5=0x7f05003b;
+        public static final int revista=0x7f05003c;
+        public static final int title_activity_about_us=0x7f05003d;
+        public static final int title_activity_magazine_viewer=0x7f05003e;
+        public static final int title_activity_post=0x7f05003f;
+        public static final int title_activity_us=0x7f050040;
+        public static final int title_section1=0x7f050041;
+        public static final int title_section2=0x7f050042;
+        public static final int title_section3=0x7f050043;
+        public static final int twitter=0x7f050044;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

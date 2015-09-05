@@ -18,6 +18,8 @@ import com.madremedusa.R;
 
 import android.app.AlertDialog;
 import android.content.Context;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.util.Log;
 import android.widget.Toast;
 import org.apache.http.client.methods.HttpGet;
@@ -154,5 +156,20 @@ public class Utils {
             }
         }
         catch(Exception ex){}
+    }
+
+    public static boolean checkConn(Context context) {
+        ConnectivityManager conMgr = (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo i = conMgr.getActiveNetworkInfo();
+        if (i == null) {
+            return false;
+        }
+        if (!i.isConnected()) {
+            return false;
+        }
+        if (!i.isAvailable()) {
+            return false;
+        }
+        return true;
     }
 }
