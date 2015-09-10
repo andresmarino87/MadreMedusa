@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item
+        android:id="@+id/clear_cache"
+        android:orderInCategory="100"
+        android:title="@string/clear_cache"
+        app:showAsAction="never"/>
+</menu>
+<!-- From: file:/Users/kate/Dropbox/Deveps/Android/MadreMedusa/app/src/main/res/menu/global.xml -->
